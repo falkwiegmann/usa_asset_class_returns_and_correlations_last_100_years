@@ -13,11 +13,11 @@ Yearly returns and correlation matrices for major US asset classes over roughly 
 
 ## Nominal Returns
 
-![Asset Class Returns 1928-2023](figures/asset_returns_and_correlation.png)
+[Asset Class Returns 1928-2023 (PDF)](figures/asset_returns_and_correlation.pdf)
 
 ## Inflation-Adjusted Returns
 
-![Asset Class Returns 1928-2023 (inflation-adjusted)](figures/inflation_adjusted_asset_returns_and_correlation.png)
+[Asset Class Returns 1928-2023, inflation-adjusted (PDF)](figures/inflation_adjusted_asset_returns_and_correlation.pdf)
 
 ## License
 
